@@ -1,6 +1,7 @@
 import java.io.PrintStream;
 import java.util.Scanner;
 
+/** https://codeforces.com/contest/1754/problem/A */
 public class A {
     public static void main(String [] args) {
         Scanner scanner = new Scanner(System.in);
